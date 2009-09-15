@@ -19,6 +19,7 @@ require 'cgi'
 require 'auth'
 require 'client/dataobject'
 require 'client/parsers/response_parser'
+require 'client/parsers/compact'
 require 'thread'
 require 'logger'
 
