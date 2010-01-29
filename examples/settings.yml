@@ -1,0 +1,12 @@
+settings:
+  :url:  http://demo.crt.realtors.org:6103/rets/login
+  :username: Joe
+  :password: Schmoe
+  :resource: Property
+  :class: RES
+  :query: (MODIFIED=2009-11-14-TODAY)
+  :object_type: Photo
+  :resource_id: '11003049:*'
+  :limit: 400
+  #:query: (LISTPRICE=0+)
+  #:query: (MODIFIED=2009-11-14-TODAY)
